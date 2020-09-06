@@ -10,4 +10,4 @@
 
 # Control Your Home with Raspberry Pi
 
-[![Control Your Home with Raspberry Pi](control-your-home-with-raspberry-pi.thumbnail.png)](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/)
+[![Control Your Home with Raspberry Pi](https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/control-your-home-with-raspberry-pi.thumbnail.png)](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/)
