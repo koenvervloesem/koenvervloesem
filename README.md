@@ -8,9 +8,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koenvervloesem&layout=compact" />
 </a>
 
-# 📖 Control Your Home with Raspberry Pi
+# 📖 Books
 
-[![Control Your Home with Raspberry Pi](https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/control-your-home-with-raspberry-pi.thumbnail.png)](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/)
+<a href="https://koen.vervloesem.eu/books/getting-started-with-esphome/">
+  <img align="center" src="https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/getting-started-with-esphome.thumbnail.png" />
+</a>
+
+<a href="https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/">
+  <img align="center" src="https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/control-your-home-with-raspberry-pi.thumbnail.png" />
+</a>
 
 # 🏃 Follow me
 
