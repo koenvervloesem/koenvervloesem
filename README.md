@@ -10,6 +10,10 @@
 
 # 📖 Books
 
+<a href="https://koen.vervloesem.eu/books/develop-your-own-bluetooth-low-energy-applications/"/>
+  <img align="center" src="https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/develop-your-own-bluetooth-low-energy-applications.thumbnail.png" />
+</a>
+
 <a href="https://koen.vervloesem.eu/books/getting-started-with-esphome/">
   <img align="center" src="https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/getting-started-with-esphome.thumbnail.png" />
 </a>
