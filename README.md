@@ -22,6 +22,11 @@
   <img align="center" src="https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/control-your-home-with-raspberry-pi.thumbnail.png" />
 </a>
 
+# 📓 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # 🏃 Follow me
 
 [![Twitter: koenvervloesem](https://img.shields.io/twitter/follow/koenvervloesem?label=@koenvervloesem&style=social)](https://twitter.com/koenvervloesem)
