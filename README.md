@@ -25,11 +25,11 @@
 # 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 was the year of Bluetooth](https://koen.vervloesem.eu/blog/2022-was-the-year-of-bluetooth/)
 - [Developing Bluetooth Low Energy applications with Zephyr RTOS: Dissecting an iBeacon example](https://koen.vervloesem.eu/blog/developing-bluetooth-low-energy-applications-with-zephyr-rtos-dissecting-an-ibeacon-example/)
 - [Decoding Bluetooth Low Energy advertisements with Python, Bleak and Construct](https://koen.vervloesem.eu/blog/decoding-bluetooth-low-energy-advertisements-with-python-bleak-and-construct/)
 - [Fixing a failed upgrade to Ubuntu 22.04 LTS in recovery mode](https://koen.vervloesem.eu/blog/fixing-a-failed-upgrade-to-ubuntu-2204-lts-in-recovery-mode/)
 - [Automatically disable your internal webcam on Linux](https://koen.vervloesem.eu/blog/automatically-disable-your-internal-webcam-on-linux/)
-- [Receiving BLE sensors in Home Assistant with the Theengs Gateway add-on](https://koen.vervloesem.eu/blog/receiving-ble-sensors-in-home-assistant-with-the-theengs-gateway-add-on/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃 Follow me
