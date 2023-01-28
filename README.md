@@ -25,11 +25,11 @@
 # 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to stop brltty from claiming your USB UART interface on Linux](https://koen.vervloesem.eu/blog/how-to-stop-brltty-from-claiming-your-usb-uart-interface-on-linux/)
 - [2022 was the year of Bluetooth](https://koen.vervloesem.eu/blog/2022-was-the-year-of-bluetooth/)
 - [Developing Bluetooth Low Energy applications with Zephyr RTOS: Dissecting an iBeacon example](https://koen.vervloesem.eu/blog/developing-bluetooth-low-energy-applications-with-zephyr-rtos-dissecting-an-ibeacon-example/)
 - [Decoding Bluetooth Low Energy advertisements with Python, Bleak and Construct](https://koen.vervloesem.eu/blog/decoding-bluetooth-low-energy-advertisements-with-python-bleak-and-construct/)
 - [Fixing a failed upgrade to Ubuntu 22.04 LTS in recovery mode](https://koen.vervloesem.eu/blog/fixing-a-failed-upgrade-to-ubuntu-2204-lts-in-recovery-mode/)
-- [Automatically disable your internal webcam on Linux](https://koen.vervloesem.eu/blog/automatically-disable-your-internal-webcam-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃 Follow me
