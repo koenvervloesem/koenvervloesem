@@ -25,11 +25,11 @@
 # 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hopes and promises for open-source voice assistants](https://koen.vervloesem.eu/blog/hopes-and-promises-for-open-source-voice-assistants/)
 - [Using low-cost 433.92 MHz wireless sensors](https://koen.vervloesem.eu/blog/using-low-cost-43392-mhz-wireless-sensors/)
 - [How to stop brltty from claiming your USB UART interface on Linux](https://koen.vervloesem.eu/blog/how-to-stop-brltty-from-claiming-your-usb-uart-interface-on-linux/)
 - [2022 was the year of Bluetooth](https://koen.vervloesem.eu/blog/2022-was-the-year-of-bluetooth/)
 - [Developing Bluetooth Low Energy applications with Zephyr RTOS: Dissecting an iBeacon example](https://koen.vervloesem.eu/blog/developing-bluetooth-low-energy-applications-with-zephyr-rtos-dissecting-an-ibeacon-example/)
-- [Decoding Bluetooth Low Energy advertisements with Python, Bleak and Construct](https://koen.vervloesem.eu/blog/decoding-bluetooth-low-energy-advertisements-with-python-bleak-and-construct/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃 Follow me
