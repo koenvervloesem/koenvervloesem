@@ -25,11 +25,11 @@
 # 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the await keyword in the Python REPL without asyncio.run&lpar;&rpar;](https://koen.vervloesem.eu/blog/how-to-use-the-await-keyword-in-the-python-repl-without-asynciorun/)
 - [Creating terminal user interfaces in Python with Textual](https://koen.vervloesem.eu/blog/creating-terminal-user-interfaces-in-python-with-textual/)
 - [Creating a diagnostics module for Python software](https://koen.vervloesem.eu/blog/creating-a-diagnostics-module-for-python-software/)
 - [Hopes and promises for open-source voice assistants](https://koen.vervloesem.eu/blog/hopes-and-promises-for-open-source-voice-assistants/)
 - [Using low-cost 433.92 MHz wireless sensors](https://koen.vervloesem.eu/blog/using-low-cost-43392-mhz-wireless-sensors/)
-- [How to stop brltty from claiming your USB UART interface on Linux](https://koen.vervloesem.eu/blog/how-to-stop-brltty-from-claiming-your-usb-uart-interface-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃 Follow me
