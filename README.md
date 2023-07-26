@@ -25,11 +25,11 @@
 # 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When BlueZ has connected once to a BLE device, it uses the Device Name characteristic for the device name](https://koen.vervloesem.eu/blog/when-bluez-has-connected-once-to-a-ble-device-it-uses-the-device-name-characteristic-for-the-device-name/)
+- [Using ESPHome on the Raspberry Pi Pico W and other RP2040 microcontroller boards](https://koen.vervloesem.eu/blog/using-esphome-on-the-raspberry-pi-pico-w-and-other-rp2040-microcontroller-boards/)
 - [Zephyr&#39;s growing hardware support includes popular microcontroller boards for makers](https://koen.vervloesem.eu/blog/zephyrs-growing-hardware-support-includes-popular-microcontroller-boards-for-makers/)
 - [How to use the await keyword in the Python REPL without asyncio.run&lpar;&rpar;](https://koen.vervloesem.eu/blog/how-to-use-the-await-keyword-in-the-python-repl-without-asynciorun/)
 - [Creating terminal user interfaces in Python with Textual](https://koen.vervloesem.eu/blog/creating-terminal-user-interfaces-in-python-with-textual/)
-- [Creating a diagnostics module for Python software](https://koen.vervloesem.eu/blog/creating-a-diagnostics-module-for-python-software/)
-- [Hopes and promises for open-source voice assistants](https://koen.vervloesem.eu/blog/hopes-and-promises-for-open-source-voice-assistants/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃 Follow me
