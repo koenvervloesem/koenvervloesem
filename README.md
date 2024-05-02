@@ -10,6 +10,10 @@
 
 # 📖 Books
 
+<a href="https://koen.vervloesem.eu/books/building-wireless-sensor-networks-with-openthread/"/>
+  <img align="center" src="https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/building-wireless-sensor-networks-with-openthread.thumbnail.png" />
+</a>
+
 <a href="https://koen.vervloesem.eu/books/develop-your-own-bluetooth-low-energy-applications/"/>
   <img align="center" src="https://raw.githubusercontent.com/koenvervloesem/koenvervloesem/master/develop-your-own-bluetooth-low-energy-applications.thumbnail.png" />
 </a>
