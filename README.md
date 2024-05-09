@@ -29,11 +29,11 @@
 # 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building wireless sensor networks with OpenThread, CoAP, and Zephyr](https://koen.vervloesem.eu/blog/building-wireless-sensor-networks-with-openthread-coap-and-zephyr/)
 - [How to change the default I²C pins in Zephyr](https://koen.vervloesem.eu/blog/how-to-change-the-default-i2c-pins-in-zephyr/)
 - [Using ESPHome on the Raspberry Pi Pico W and other RP2040 microcontroller boards](https://koen.vervloesem.eu/blog/using-esphome-on-the-raspberry-pi-pico-w-and-other-rp2040-microcontroller-boards/)
 - [When BlueZ has connected once to a BLE device, it uses the Device Name characteristic for the device name](https://koen.vervloesem.eu/blog/when-bluez-has-connected-once-to-a-ble-device-it-uses-the-device-name-characteristic-for-the-device-name/)
 - [Zephyr&#39;s growing hardware support includes popular microcontroller boards for makers](https://koen.vervloesem.eu/blog/zephyrs-growing-hardware-support-includes-popular-microcontroller-boards-for-makers/)
-- [How to use the await keyword in the Python REPL without asyncio.run&lpar;&rpar;](https://koen.vervloesem.eu/blog/how-to-use-the-await-keyword-in-the-python-repl-without-asynciorun/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃 Follow me
