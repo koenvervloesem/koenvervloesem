@@ -29,11 +29,11 @@
 # 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install alternative firmware to the SenseCAP M2 Data Only LoRaWAN Indoor Gateway](https://koen.vervloesem.eu/blog/how-to-install-alternative-firmware-to-the-sensecap-m2-data-only-lorawan-indoor-gateway/)
 - [AlsaMixer&#39;s poetic error message from Lewis Carroll&#39;s &quot;The Hunting of the Snark&quot;](https://koen.vervloesem.eu/blog/alsamixers-poetic-error-message-from-lewis-carrolls-the-hunting-of-the-snark/)
 - [Building wireless sensor networks with OpenThread, CoAP, and Zephyr](https://koen.vervloesem.eu/blog/building-wireless-sensor-networks-with-openthread-coap-and-zephyr/)
 - [How to change the default I²C pins in Zephyr](https://koen.vervloesem.eu/blog/how-to-change-the-default-i2c-pins-in-zephyr/)
 - [Using ESPHome on the Raspberry Pi Pico W and other RP2040 microcontroller boards](https://koen.vervloesem.eu/blog/using-esphome-on-the-raspberry-pi-pico-w-and-other-rp2040-microcontroller-boards/)
-- [When BlueZ has connected once to a BLE device, it uses the Device Name characteristic for the device name](https://koen.vervloesem.eu/blog/when-bluez-has-connected-once-to-a-ble-device-it-uses-the-device-name-characteristic-for-the-device-name/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃 Follow me
